@@ -4,7 +4,7 @@ Welcome to CodeMind AI! This is a VSCode extension designed to 100x your data de
 
 ## Using the extension
 
-All you need to do to get started with the extension is download [VSCode](!https://code.visualstudio.com/), then go into the extensions tab and search for CodeMind!
+All you need to do to get started with the extension is download [VSCode](https://code.visualstudio.com/), then go into the extensions tab and search for CodeMind!
 
 ## Feedback
 
